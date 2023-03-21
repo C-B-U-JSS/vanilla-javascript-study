@@ -1,1 +1,1 @@
-# core-javascript-study
+# javascript-study
