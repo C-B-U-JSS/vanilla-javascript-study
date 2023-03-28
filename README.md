@@ -1,4 +1,4 @@
-# JavaScript Study
+# Vanilla JavaScript Study
 
 ## 진행방식
 
