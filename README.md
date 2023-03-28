@@ -8,7 +8,7 @@
 ## 제출 방법
 
 - fork한 repository 최신화 방법
-  - git remote add upstream https://github.com/C-B-U-JSS/javascript-study.git (초기 1회만)
+  - git remote add upstream https://github.com/C-B-U-JSS/vanilla-javascript-study.git (초기 1회만)
   - git remote -v ( 연결 확인 용도 )
 
 <br>
